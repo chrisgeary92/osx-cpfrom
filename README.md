@@ -4,7 +4,7 @@ Copyfrom is a simple bash function for OSX that attempts to copy a directory and
 
 ## TLDR
 
-Create a directory to store your packages under` `~/Desktop/packages`, create a `demo-package` directory containing some files, then run the following from your project:
+Create a directory to store your packages under `~/Desktop/packages`, create a `demo-package` directory containing some files, then run the following from your project:
 
 ````
 cpfrom demo-package
